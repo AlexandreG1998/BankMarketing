@@ -1,5 +1,6 @@
 # BankMarketing
-This is a Neural Network's application in a public UCI problem
+This is a Neural Network applied to the public UCI problem Bank Marketing Dataset 
+
 Dataset : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 # Strategy
